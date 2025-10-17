@@ -4,12 +4,12 @@
 2. To Clone the repository and start the game:
    Copy the Git URL form Github.
    ```bash
-   git clone [Copied Git URL]
+   git clone https://github.com/ParvaChaudhari/2048-game.git
    cd 2048-game
    python main.py
    ```
 
-# Implementation Details
+## Implementation Details
 
 # Overview
 
