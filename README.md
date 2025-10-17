@@ -6,7 +6,7 @@
 
 1. Ensure Python 3.6+ is installed. Tkinter, the GUI library used, is included with standard Python installations on Windows and macOS.
 2. To Clone the repository and start the game:
-   Copy the Git URL form Github.
+
    ```bash
    git clone https://github.com/ParvaChaudhari/2048-game.git
    cd 2048-game
