@@ -1,6 +1,6 @@
 ## Deployed Application
 
-- **Desktop**: Download the standalone executable from [main.exe](https://github.com/your-username/2048-game/raw/main/dist/main.exe) and run it.
+- **Desktop**: Download the standalone executable from [main.exe](https://github.com/ParvaChaudhari/2048-game/raw/main/dist/main.exe) and run it.
 
 ## Via Source Code
 
