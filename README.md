@@ -21,9 +21,9 @@ This project is a complete implementation of the 2048 game, built using Python a
 
 ## Technical Approach
 
--Python was chosen for its simplicity and readability, as well as its strong standard library support and cross platform compatibility.
+- Python was chosen for its simplicity and readability, as well as its strong standard library support and cross platform compatibility.
 
--Tkinter was used to create the graphical interface since it’s built into Python and requires no external dependencies making the project easy to run and review.
+- Tkinter was used to create the graphical interface since it’s built into Python and requires no external dependencies making the project easy to run and review.
 
 ## File Structure
 
@@ -40,15 +40,15 @@ Meanwhile, gui.py manages the game’s stateful aspects, such as visual updates 
 
 ## GUI Design
 
--The game launches in fullscreen mode (window.attributes('-fullscreen', True)) for an immersive experience, with the Escape key set to exit fullscreen.
+- The game launches in fullscreen mode (window.attributes('-fullscreen', True)) for an immersive experience, with the Escape key set to exit fullscreen.
 
--Instructions are displayed on the left side of the window in a neatly formatted frame with a readable font (Arial, 14) and proper text wrapping.
+- Instructions are displayed on the left side of the window in a neatly formatted frame with a readable font (Arial, 14) and proper text wrapping.
 
--The game board is made up of a grid of Label widgets, styled with larger tiles (width=12, height=6) and bold text (Arial, 24) for clarity.
+- The game board is made up of a grid of Label widgets, styled with larger tiles (width=12, height=6) and bold text (Arial, 24) for clarity.
 
--Restart and Quit buttons are placed in a dedicated frame below the board, styled consistently and spaced evenly for a polished look.
+- Restart and Quit buttons are placed in a dedicated frame below the board, styled consistently and spaced evenly for a polished look.
 
--When a game ends, a messagebox pops up displaying the final score and automatically restarts the game when confirmed, using a game_ended flag to prevent repeated dialogs.
+- When a game ends, a messagebox pops up displaying the final score and automatically restarts the game when confirmed, using a game_ended flag to prevent repeated dialogs.
 
 ## Features
 
